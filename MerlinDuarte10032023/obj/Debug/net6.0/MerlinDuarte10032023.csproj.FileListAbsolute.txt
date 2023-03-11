@@ -1,0 +1,15 @@
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\bin\Debug\net6.0\MerlinDuarte10032023.exe
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\bin\Debug\net6.0\MerlinDuarte10032023.deps.json
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\bin\Debug\net6.0\MerlinDuarte10032023.runtimeconfig.json
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\bin\Debug\net6.0\MerlinDuarte10032023.dll
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\bin\Debug\net6.0\MerlinDuarte10032023.pdb
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.csproj.AssemblyReference.cache
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.AssemblyInfoInputs.cache
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.AssemblyInfo.cs
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.csproj.CoreCompileInputs.cache
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.dll
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\refint\MerlinDuarte10032023.dll
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.pdb
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\MerlinDuarte10032023.genruntimeconfig.cache
+C:\proyectos\semana7\MerlinDuarte10032023\MerlinDuarte10032023\obj\Debug\net6.0\ref\MerlinDuarte10032023.dll
